@@ -1,4 +1,4 @@
-Pos #,Dept ID,School_ID,Department,FTE,ClsIndc,Annual Salary,FTE Annual Salary,Annual Benefit Cost,JobCode,Job Title,Name
+Pos #,Dept ID,School_ID,School,FTE,ClsIndc,Annual Salary,FTE Annual Salary,Annual Benefit Cost,JobCode,Job Title,Name
 117327,26731,609871,Barbara Vick EC & Fam Ct,1,T,96039,96039,31541,500629,Special Education Teacher,"Wang, Hongbo  "
 121944,26731,609871,Barbara Vick EC & Fam Ct,1,T,144951,144951,39530,41,Principal,"O'Connor, Amy L"
 127816,26731,609871,Barbara Vick EC & Fam Ct,1,T,94092,94092,31108,500629,Special Education Teacher,"Major, Rozetta  "
