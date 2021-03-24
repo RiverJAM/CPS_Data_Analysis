@@ -20,5 +20,11 @@
 ### Data Sources
 https://www.cps.edu/about/district-data/
 
+## Findings
+
 ### Charter V Public
+It does apper that charter schools have higher graduation rates and more growth on standardized tests.
+
 ![alt text](https://github.com/RiverJAM/CPS_Data_Analysis/blob/main/output_data/Grad41vST.png "figure 1")
+![alt text](https://github.com/RiverJAM/CPS_Data_Analysis/blob/main/output_data/Growth10ReadvST.png)
+
