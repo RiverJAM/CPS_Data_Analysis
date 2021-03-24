@@ -21,4 +21,4 @@
 https://www.cps.edu/about/district-data/
 
 ### Charter V Public
-![alt text] (https://github.com/RiverJAM/CPS_Data_Analysis/blob/main/output_data/Grad41vST.png "figure 1")
+![alt text](https://github.com/RiverJAM/CPS_Data_Analysis/blob/main/output_data/Grad41vST.png "figure 1")
