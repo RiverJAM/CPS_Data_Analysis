@@ -26,11 +26,10 @@ https://www.cps.edu/about/district-data/
 
 ##### Do Charter Schools differ from Neighborhood Public Schools in their Graduation rates?
 
-|     Null      | No Difference |
-|   Hypothesis  |    In Means   |
+|     Null   Hypothesis   | No Difference in means |
 | ------------- |:-------------:|
-|  Alternative  | Difference in |
-|   Hypothesis  |     means     |
+|  Alternative Hypothesis | Means differ significantly |
+
 It does apper that charter schools have higher graduation rates and more growth on standardized tests.
 
 ![alt text](https://github.com/RiverJAM/CPS_Data_Analysis/blob/main/output_data/Grad41vST.png "figure 1")
