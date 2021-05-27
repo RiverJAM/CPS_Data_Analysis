@@ -1,6 +1,6 @@
 # CPS Data Analysis Project
 
->Analyzing the effects of Charter Schools
+>Analyzing Charter School performance
 
 ---
 
