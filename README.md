@@ -24,7 +24,7 @@ https://www.cps.edu/about/district-data/
 
 ### Charter v Neighborhood Public
 
-Our first question of interest was whether Charter Schools performed differently than Neighborhood Public schools on average. We were going to use a few key outcomes to gauge school performance: graduation rates, test scores, and college admissions.
+Our first question of interest was whether Charter Schools performed differently than Neighborhood Public schools on average. Our outcome metrics to gauge school performance were graduation rates, test scores, and college admissions.
 
 ##### Do Charter Schools differ from Neighborhood Public Schools in their Graduation rates?
 
