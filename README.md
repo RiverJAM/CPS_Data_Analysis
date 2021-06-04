@@ -36,6 +36,11 @@ It does apper that charter schools have higher graduation rates and more growth 
 
 ![alt text](https://github.com/RiverJAM/CPS_Data_Analysis/blob/main/output_data/Grad41vST_2018.png "figure 1")
 ![alt text](https://github.com/RiverJAM/CPS_Data_Analysis/blob/main/output_data/Grad41vST_2019.png "figure 2")
+
+![alt text](https://github.com/RiverJAM/CPS_Data_Analysis/blob/main/output_data/2018Grad5vST.png "figure 1")
+![alt text](https://github.com/RiverJAM/CPS_Data_Analysis/blob/main/output_data/2019Grad5vST.png "figure 2")
+
+
 ![alt text](https://github.com/RiverJAM/CPS_Data_Analysis/blob/main/output_data/Growth10ReadvST.png)
 
 ### Salary and Student Growth
