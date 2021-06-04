@@ -24,15 +24,15 @@ https://www.cps.edu/about/district-data/
 
 ### Charter v Neighborhood Public
 
-Our first question of interest was whether Charter Schools performed differently than Neighborhood Public schools on average. Our outcome metrics to gauge school performance were graduation rates, test scores, and college admissions.
+Do Charter Schools perform differently than Neighborhood Public schools on average? Our outcome metrics to gauge school performance were graduation rates, test scores, and college admissions.
 
 ##### Do Charter Schools differ from Neighborhood Public Schools in their Graduation rates?
 
-Null   Hypothesis: No Difference in means 
+Null Hypothesis: No Difference in means 
 
 Alternative Hypothesis: Means differ
 
-It does apper that charter schools have higher graduation rates and more growth on standardized tests.
+We reject the null hypothesis. The data show that charter schools have higher 4 and 5 year graduation rates. Additionally, Neighborhood schools have a greater range of graduation rates.
 
 ![alt text](https://github.com/RiverJAM/CPS_Data_Analysis/blob/main/output_data/Grad41vST_2018.png "figure 1")
 ![alt text](https://github.com/RiverJAM/CPS_Data_Analysis/blob/main/output_data/Grad41vST_2019.png "figure 2")
