@@ -30,7 +30,7 @@ Do Charter Schools perform differently than Neighborhood Public schools on avera
 
 H<sub>O</sub>: No Difference in means 
 
-Alternative Hypothesis: Means differ
+H<sub>A</sub>: Means differ
 
 We reject the null hypothesis. The data show that charter schools have higher 4 and 5 year graduation rates. Additionally, Neighborhood schools have a greater range of graduation rates.
 
