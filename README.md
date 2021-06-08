@@ -28,9 +28,9 @@ Do Charter Schools perform differently than Neighborhood Public schools on avera
 
 ##### Do Charter Schools differ from Neighborhood Public Schools in their Graduation rates?
 
-H<sub>O</sub>: No Difference in means 
+H<sub>O</sub>: mu<sub>1</sub> - mu<sub>2</sub> = 0
 
-H<sub>A</sub>: Means differ
+H<sub>A</sub>: mu<sub>1</sub> - mu<sub>2</sub> =/ 0
 
 We reject the null hypothesis. The data show that charter schools have higher 4 and 5 year graduation rates. Additionally, Neighborhood schools have a greater range of graduation rates.
 
