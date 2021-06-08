@@ -28,7 +28,7 @@ Do Charter Schools perform differently than Neighborhood Public schools on avera
 
 ##### Do Charter Schools differ from Neighborhood Public Schools in their Graduation rates?
 
-H<sub>O<sub>: No Difference in means 
+H<sub>O</sub>: No Difference in means 
 
 Alternative Hypothesis: Means differ
 
