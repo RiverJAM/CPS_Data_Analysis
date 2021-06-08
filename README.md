@@ -32,13 +32,15 @@ H<sub>O</sub>: µ<sub>1</sub> - µ<sub>2</sub> = 0 (There is no difference in th
 
 H<sub>A</sub>: µ<sub>1</sub> - µ<sub>2</sub> ≠ 0 (There is a difference in the mean graduation rates between Charter and Neighborhood Public schools)
 
-We reject the null hypothesis. The data show that charter schools have higher 4 and 5 year graduation rates. Additionally, Neighborhood schools have a greater range of graduation rates.
+We reject the null hypothesis (for alpha =.05). All p-values were below .01.
+
+The data show that charter schools have higher 4 and 5 year graduation rates. Additionally, Neighborhood schools have a greater range of graduation rates.
 
 ![alt text](https://github.com/RiverJAM/CPS_Data_Analysis/blob/main/output_data/Grad41vST_2018.png "figure 1")
 ![alt text](https://github.com/RiverJAM/CPS_Data_Analysis/blob/main/output_data/Grad41vST_2019.png "figure 2")
 
-![alt text](https://github.com/RiverJAM/CPS_Data_Analysis/blob/main/output_data/2018Grad5vST.png "figure 1")
-![alt text](https://github.com/RiverJAM/CPS_Data_Analysis/blob/main/output_data/2019Grad5vST.png "figure 2")
+![alt text](https://github.com/RiverJAM/CPS_Data_Analysis/blob/main/output_data/2018Grad5vST.png "figure 3")
+![alt text](https://github.com/RiverJAM/CPS_Data_Analysis/blob/main/output_data/2019Grad5vST.png "figure 4")
 
 
 ![alt text](https://github.com/RiverJAM/CPS_Data_Analysis/blob/main/output_data/Growth10ReadvST.png)
