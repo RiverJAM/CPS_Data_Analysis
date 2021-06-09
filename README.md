@@ -43,8 +43,6 @@ The data show that charter schools have higher 4 and 5 year graduation rates. Ad
 ![alt text](https://github.com/RiverJAM/CPS_Data_Analysis/blob/main/output_data/2019Grad5vST.png "figure 4")
 
 
-![alt text](https://github.com/RiverJAM/CPS_Data_Analysis/blob/main/output_data/Growth10ReadvST.png)
-
 ### Salary and Student Growth
 
 ![alt text](https://github.com/RiverJAM/CPS_Data_Analysis/blob/main/output_data/CollegeEnvSalary.png)
