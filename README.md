@@ -8,7 +8,7 @@
 1. Does student performance at Charter Schools differ from Neighborhood Public Schools?
 2. Is there a difference in teacher retention at Charter schools compared to Neighborhood Public schools?
 3. Does teacher salary correlate with Student Growth or Achievement?
-4. Do Charter and Neighborhood schools differ in teacher retention?
+
 
 ---
 
