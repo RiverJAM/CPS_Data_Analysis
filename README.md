@@ -51,8 +51,4 @@ H<sub>A</sub>: µ<sub>1</sub> - µ<sub>2</sub> ≠ 0 (There is a difference in t
 
 For this analysis, we used 95% confidence intervals. µ<sub>1</sub> is 0.844871794871795 and µ<sub>2</sub> is 0.4530434782608695 (Neighborhood and Charter respectively). The confidence interval for difference in Teacher Retention is from 0.615983390189514 and 0.16767324303233697. We reject the null. The data show a significantly higher teacher retention in Neighborhood schools.
 
----
-## Does Salary correlate with Student Acheivement?
-
-![alt text](https://github.com/RiverJAM/CPS_Data_Analysis/blob/main/output_data/CollegeEnvSalary.png)
 
